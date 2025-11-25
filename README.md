@@ -4,7 +4,7 @@ Im starting this project to gain more skills with HTML and CSS, specifically uti
 
 **BEWARE:** This is part of a learning series...
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 HTML5
 
@@ -26,5 +26,5 @@ No installation required! Simply clone this repository and open ytb-webpage.html
 
 Then, open the index.html file in your browser.
 
-## 🤝 Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to add.
