@@ -22,9 +22,9 @@ CSS3
 
 ## Usage
 
-No installation required! Simply clone this repository and open ytb-webpage.html in your browser.
+No installation required, clone this repository and open ytb-webpage.html in your browser
 
-Then, open the index.html file in your browser.
+Then, open the index.html file in your browser
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to add.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to add
